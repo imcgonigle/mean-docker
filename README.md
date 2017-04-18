@@ -17,8 +17,11 @@ The end result from following the [MEAN app tutorial with docker.]<https://scotc
 ...You will need [Docker]<https://www.docker.com/> installed on your machine to get this up and running.
 
 1. Clone this repo.
-...The first step is to git this repo onto your machine.
-...`git clone https://github.com/imcgonigle/mean-docker`
+...The first step is to git this repo onto your machine. Then cd into the project root folder.
+```
+git clone https://github.com/imcgonigle/mean-docker`
+cd mean-docker
+```
 
 
 2. Run Docker Compose
