@@ -23,9 +23,9 @@ The end result from following the [MEAN app tutorial with docker.]<https://scotc
 
 2. Run Docker Compose
 ...Now that everything is installed you need to build the Docker containers and run docker-compose.
-...```
-...docker-compose up --build
-...```
+```
+docker-compose up --build
+```
 
 3. Visit the site
 ...Visit localhost:4200 in your web browser and you should see your the application live.
